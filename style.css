@@ -1,0 +1,29 @@
+.bg-carousel {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+		url(img/image-from-rawpixel-id-3302019-jpeg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.altura-carousel{
+  height: 400px;
+}
+
+.img-main {
+	background:		url(img/image-from-rawpixel-id-2311530-jpeg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+  width: 100%;
+  height: 100%;
+  min-height: 300px;
+}
+
+.logo{
+  width: 75px;
+  height: 75px;
+  display: flex;align-items: center;justify-content: center;
+  color: white;
+  font-size: 1.2rem;
+}
